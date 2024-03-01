@@ -1,0 +1,58 @@
+[
+  {
+    "employeeId": 100,
+    "firstName": "Sanjeet",
+    "lastName": "Kumar",
+    "email": "Sanjeet.Sk.Kumar@test.com",
+    "hireDate": "2008-10-16",
+    "departmentName": "Marketing"
+  },
+  {
+    "employeeId": 101,
+    "firstName": "Ameya",
+    "lastName": "Job",
+    "email": "ameya.job@xxx.com",
+    "hireDate": "2013-03-06",
+    "departmentName": "Sales"
+  },
+  {
+    "employeeId": 102,
+    "firstName": "Pat",
+    "lastName": "Fay",
+    "email": "pat.fey@xxx.com",
+    "hireDate": "2001-03-06",
+    "departmentName": "Human Resources"
+  },
+  {
+    "firstName": "Suresh",
+    "lastName": "Kumar",
+    "email": "Suresh.Kumar@test.com",
+    "hireDate": "2024-03-01",
+    "departmentName": "Engineering",
+    "employeeId": 103
+  },
+  {
+    "firstName": "Nagma",
+    "lastName": "Khanam",
+    "email": "nagma.khanam@test.com",
+    "hireDate": "2024-03-01",
+    "departmentName": "Engineering",
+    "employeeId": 104
+  },
+  {
+    "firstName": "Chaman Lal",
+    "lastName": "Sahu",
+    "email": "chama.sahu@test.com",
+    "hireDate": "2022-10-16",
+    "departmentName": "sales",
+    "employeeId": 105
+  },
+  {
+    "firstName": "Sanju",
+    "lastName": "Baba",
+    "email": "sanju.baba@test.com",
+    "hireDate": "2023-12-28",
+    "departmentName": "Sales",
+    "employeeId": 106
+  }
+]
